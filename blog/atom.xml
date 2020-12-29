@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Ripe Kumquat Blog - Blog</title>
+	<subtitle>A collection of reviews from a kumquat.</subtitle>
+	<link href="https://ripekumquat.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ripekumquat.github.io/blog/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-11-05T22:56:35+00:00</updated>
+	<id>https://ripekumquat.github.io/blog/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Mofo Wine Review</title>
+		<published>2020-11-05T22:56:17+00:00</published>
+		<updated>2020-11-05T22:56:35+00:00</updated>
+		<link href="https://ripekumquat.github.io/blog/2020-11-07-wine-review/" type="text/html"/>
+		<id>https://ripekumquat.github.io/blog/2020-11-07-wine-review/</id>
+		<content type="html">&lt;section aria-labelledby=&quot;Mofo Review&quot;&gt;
+
+  
+  
+  &lt;span class=&quot;info&quot;&gt;&lt;em&gt; Mofo &lt;&#x2F;em&gt; &amp;emsp; Del Dotti &amp;ensp; 2018 &amp;thinsp; $250 &lt;&#x2F;span&gt;
+
+  &lt;span class=&quot;info&quot;&gt; Chard &amp;thinsp; Napa &lt;&#x2F;span&gt;
+
+
+  
+  
+  &lt;strong class=&quot;ol_review&quot; aria-label=&quot;One Line Review&quot;&gt; A unique fusion between American and French Oak in a simple wine that brings the best of both worlds in one sip. &lt;&#x2F;strong&gt;
+
+  
+  
+  &lt;label for=&quot;mofo&quot;&gt;Overall Rating &lt;&#x2F;label&gt;&lt;meter class=&quot;rating_meter&quot; id=&quot;Mofo&quot; value=&quot;10&quot; min=&quot;0&quot; max=&quot;10&quot;
+    aria-valuenow=&quot;10&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 10 out of 10 &lt;&#x2F;meter&gt; 10
+
+
+
+  
+  
+  &lt;label class=&quot;rating&quot; for=&quot;wine_palette_rating&quot;&gt;Palette:&lt;&#x2F;label&gt;
+  &lt;ul class=&quot;rating&quot; id=&quot;wine_palette_rating&quot; role=&quot;presentation&quot;&gt;
+
+    
+  
+    &lt;li&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_body&quot;&gt; Body &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_body&quot; value=&quot;7&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;7&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 7 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 7 &lt;&#x2F;span&gt;
+    &lt;&#x2F;li&gt;
+
+
+    
+  
+    &lt;li&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_dryness&quot;&gt; Dryness &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_dryness&quot; value=&quot;4&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;4&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 4 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 4 &lt;&#x2F;span&gt;
+    &lt;&#x2F;li&gt;
+
+
+    
+  
+    &lt;li&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_intensity&quot;&gt; Intensity &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_intensity&quot; value=&quot;9&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;9&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 9 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 9 &lt;&#x2F;span&gt;
+    &lt;&#x2F;li&gt;
+
+
+    
+  
+    &lt;li&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_nose&quot;&gt; Nose &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_nose&quot; value=&quot;9&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;9&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 9 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 9 &lt;&#x2F;span&gt;
+    &lt;&#x2F;li&gt;
+
+
+    
+  
+    &lt;li&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_tannin&quot;&gt; Tannin &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_tannin&quot; value=&quot;3&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;3&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 3 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 3 &lt;&#x2F;span&gt;
+    &lt;&#x2F;li&gt;
+
+
+  &lt;&#x2F;ul&gt;
+
+
+  
+  
+  &lt;label class=&quot;rating&quot; for=&quot;wine_main_rating&quot;&gt;Rating Breakdown:&lt;&#x2F;label&gt;
+  &lt;dl class=&quot;rating&quot; id=&quot;wine_main_rating&quot; role=&quot;presentation&quot;&gt;
+
+    
+  
+    &lt;dt&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_aroma&quot;&gt; Aroma &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_aroma&quot; value=&quot;9&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;9&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 9 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 9 &lt;&#x2F;span&gt;
+    &lt;&#x2F;dt&gt;
+    &lt;dd&gt;
+      An aroma that combines the two different oaks. There&amp;#x27;s nothing else besides that.
+    &lt;&#x2F;dd&gt;
+
+
+    
+  
+    &lt;dt&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_feel&quot;&gt; Feel &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_feel&quot; value=&quot;8&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;8&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 8 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 8 &lt;&#x2F;span&gt;
+    &lt;&#x2F;dt&gt;
+    &lt;dd&gt;
+      A dual wood combo gooey experience.
+    &lt;&#x2F;dd&gt;
+
+
+    
+  
+    &lt;dt&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_price&quot;&gt; Price &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_price&quot; value=&quot;5&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;5&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 5 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 5 &lt;&#x2F;span&gt;
+    &lt;&#x2F;dt&gt;
+    &lt;dd&gt;
+      Expensive for what it&amp;#x27;s worth but you usually don&amp;#x27;t get to try experiments like these.
+    &lt;&#x2F;dd&gt;
+
+
+    
+  
+    &lt;dt&gt;
+      &lt;label class=&quot;rating_label&quot; for=&quot;mofo_taste&quot;&gt; Taste &lt;&#x2F;label&gt;
+      &lt;meter class=&quot;rating_meter&quot; id=&quot;mofo_taste&quot; value=&quot;10&quot;
+        min=&quot;0&quot; low=&quot;4&quot; high=&quot;7&quot; optimum=&quot;8&quot; max=&quot;10&quot; aria-valuenow=&quot;10&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt; 10 out of 10 &lt;&#x2F;meter&gt;
+      &lt;span class=&quot;rating_value&quot;&gt; 10 &lt;&#x2F;span&gt;
+    &lt;&#x2F;dt&gt;
+    &lt;dd&gt;
+      The usual sharp, bold American wood paired with the overly long tail of French that many folks are very use to.
+    &lt;&#x2F;dd&gt;
+
+
+  &lt;&#x2F;dl&gt;
+
+  &lt;details open&gt;
+    &lt;summary&gt;Full review&lt;&#x2F;summary&gt;
+    &lt;p role=&quot;document&quot;&gt; This isn&#x27;t something you see while wine tasting. This was only discovered when I inquired more about the different woods used and how they are prepared before being used in the winery. In a nutshell, most wines use one type of wood, but possibly different vessels along the way. Del Dotti chose to use two different types of woods on the stave of a barrel. Traditionally, one would imagine using one type of wood but Del Dotti chose to use two. One being American and one being French.
+  &lt;br&gt; &lt;br&gt;
+  This leads to difference choices in how to create the wine. The important thing to remember is that the wood flavor is a lot strong and more unique. Thus the wine (grapes) itself need to be balanced rather than over-powering and indeed that is the case. The tannin isn&#x27;t as strong and the wood feels like the main piece with the grapes being more of the background. Usually once would except more of the flavor from the grapes but it&#x27;s well balanced with the wood.
+  &lt;br&gt; &lt;br&gt;
+  The wood takes center stage and defines the wine here. The start is a strong, sharp, bold American wood flavor that leads into the quieter and sweeter grape profile. The tail end is the more typical French wood oak that&#x27;s apparent in the end. It&#x27;s a very long and noticable wood flavor that carries as usual. What is unique is that it embodies these flavors without overpowering each other. This is no different than listening to a band rather than a solo. Each has it&#x27;s own merits but in this case, the group is more interesting than the individual flavor. It is possible to taste the single-oak only variants but it is not as unique or interesting.
+  &lt;br&gt; &lt;br&gt;
+  The price is not cheap, rather it&#x27;s the price of the two other single-oak varieities together. It&#x27;s about five hundred USD rather than about two fifty for each. Of course, there is half the quantity, rather than buying both and combining them but alas it probably won&#x27;t be the same. However, there is a price for an unique experiment
+  and the experience that comes with it and in this case it&#x27;s worth it. &lt;&#x2F;p&gt;
+  &lt;&#x2F;details&gt;
+
+
+&lt;&#x2F;section&gt;
+</content>
+	</entry>
+</feed>

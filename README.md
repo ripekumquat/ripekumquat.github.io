@@ -8,5 +8,6 @@ A collection of reviews from a Kumquat.
 
 ## Version/Changelog
 
+* Created v0.0.0 of the website.
 * README created.
 
